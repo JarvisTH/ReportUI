@@ -1,0 +1,48 @@
+html, body {
+    background-color: #eeeeee;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.navcolor {
+    background-color: #60a3bc !important;
+}
+
+.navtext {
+    color: #ffffff !important;
+}
+
+.imgrad {
+    border-radius: 50%;
+}
+
+.clearsidebar {
+    margin-top: 40px;
+}
+
+#computersidebar {
+    position: fixed;
+    top: 1em;
+    left: 0;
+    padding: 0;
+    bottom: 0;
+    background-color: #FFF;
+}
+
+#simplefluid {
+    height: 100%;
+    border-bottom: 0 none !important;
+    box-shadow: none;
+}
+
+#sidebar-image {
+    max-height: 90px;
+    max-width: 90px;
+    height: 90px;
+    width: 90px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+}
